@@ -1,5 +1,5 @@
-OncoPersistNet
-Overview
+### OncoPersistNet
+## Overview
 OncoPersistNet is a deep learning framework developed to classify persister and non-persister cancer cells using single-cell RNA sequencing (scRNA-seq) data. This repository provides the codebase for a hybrid Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN) model, designed to capture both spatial and temporal features in gene expression data, aiding in the understanding of cancer treatment resistance.
 
 Table of Contents
